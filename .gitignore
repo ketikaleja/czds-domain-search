@@ -1,0 +1,16 @@
+# Zone files and lookup cache (large, re-downloadable)
+zones/
+.cache/
+
+# Search results
+*.xlsx
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local credentials, if you ever put them in a file
+.env
+
+.DS_Store
